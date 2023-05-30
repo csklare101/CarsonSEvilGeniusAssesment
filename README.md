@@ -1,5 +1,5 @@
 # CarsonSEvilGeniusAssesment
-Submission for Evil Genius software engineering internship assesment
+Submission for Evil Genius software engineering internship assessment
 
 Used Python version 3.9.7
 
