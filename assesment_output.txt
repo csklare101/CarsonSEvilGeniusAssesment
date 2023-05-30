@@ -1,0 +1,2 @@
+Percent of T side players on Team2 that where in the light blue zone: 6.666666666666667
+Average time in seconds of when Team2 on T side enters Bombsite B with least 2 rifles or SMGs: 23

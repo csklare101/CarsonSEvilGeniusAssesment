@@ -1,0 +1,4 @@
+﻿Carson Sklare
+
+
+        For this code, I would request to expand the project to visualize the results and expand parameters beyond given constraints. In my code I already allow the user to manually type in what side and team to test for each question. For non tech savvy people, I think making a GUI front end that allows for user text input would help with user experience. Since the time frame is less than 1 week, the back end code should not be changed much. It would be limited to the light blue area question, average time of bombsite b with 2 rifles or smgs, and the heatmap for bombsite b.
